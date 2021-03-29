@@ -1,0 +1,12 @@
+name: nash_treatment_benefit
+title: nash_treatment_benefit
+username:
+account: ianarowe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2808407
+bundleId: 4406646
+url: https://ianarowe.shinyapps.io/nash_treatment_benefit/
+when: 1617005469.07201
+asMultiple: FALSE
+asStatic: FALSE
